@@ -3,13 +3,13 @@ const banners = [
   {
     id: 1,
     name: 'Vue.js Certification',
-    link: 'https://certificates.dev/vuejs?friend=VUEROUTER',
+    link: 'https://certificates.dev/vuejs/?friend=VUEROUTER&utm_source=affiliate&utm_medium=pinia&utm_campaign=Pinia_CERT&utm_content=sidebar',
     image: '/banners/vuejs-certification.svg',
   },
   {
     id: 2,
     name: 'Mastering Pinia',
-    link: 'https://masteringpinia.com',
+    link: 'https://masteringpinia.com/?utm_source=affiliate&utm_medium=pinia&utm_campaign=Pinia_MP&utm_content=sidebar',
     image: '/banners/mastering-pinia.png',
   },
 ]
